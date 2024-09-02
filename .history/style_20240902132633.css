@@ -1,0 +1,16 @@
+#calculator{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    border: none;
+}
+#screen
+{
+    width: 100px;
+    color: white;
+    border-radius: 15px;
+}
+#buttons{
+    display: grid;
+}
