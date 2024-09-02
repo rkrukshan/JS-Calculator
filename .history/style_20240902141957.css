@@ -1,6 +1,3 @@
-body{
-  background-color: hsl(0, 0%, 50%);
-}
 #calculator {
   display: flexbox;
   align-items: center;
@@ -24,7 +21,7 @@ body{
   background-color: transparent;
 }
 #buttons {
-  margin: 45px 0px;
+  margin: 5px 0px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   align-items: center;

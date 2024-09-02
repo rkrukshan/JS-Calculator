@@ -1,6 +1,3 @@
-body{
-  background-color: hsl(0, 0%, 50%);
-}
 #calculator {
   display: flexbox;
   align-items: center;
@@ -16,7 +13,7 @@ body{
 }
 #screen {
   width: 97%;
-  max-height: 100%;
+  height: 15%;
   color: white;
   font-size: 55px;
   border-radius: 15px;
@@ -24,7 +21,6 @@ body{
   background-color: transparent;
 }
 #buttons {
-  margin: 45px 0px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   align-items: center;

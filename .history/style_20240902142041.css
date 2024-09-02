@@ -1,6 +1,4 @@
-body{
-  background-color: hsl(0, 0%, 50%);
-}
+
 #calculator {
   display: flexbox;
   align-items: center;
